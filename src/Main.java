@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 import java.math.BigDecimal;
 import java.math.RoundingMode;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+=======
+import java.util.Scanner;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+>>>>>>> 6260c5eb7598a73f795370aa56c5c215e39aa2e6
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
 
+<<<<<<< HEAD
 
         double netPrice = 9.99;
         double vatRate = 0.23;
@@ -35,3 +42,17 @@ public class Main {
 
     }
 }
+=======
+        System.out.println("Enter a first number");
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        System.out.println("Enter a second number");
+        int b = sc.nextInt();
+        int Sum = a + b;
+        System.out.println("The sum of " + a + " and " + b + " is " + Sum);
+
+
+
+    }
+}
+>>>>>>> 6260c5eb7598a73f795370aa56c5c215e39aa2e6

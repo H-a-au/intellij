@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Big_Decimal.iml" filepath="$PROJECT_DIR$/Big_Decimal.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/First-project.iml" filepath="$PROJECT_DIR$/First-project.iml" />
+>>>>>>> 6260c5eb7598a73f795370aa56c5c215e39aa2e6
     </modules>
   </component>
 </project>
